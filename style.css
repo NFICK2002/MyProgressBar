@@ -1,0 +1,24 @@
+.container-progressBar {
+  margin-top: 20%;
+}
+
+.NameOfProgress {
+  font-size: 50px;
+  background: -webkit-linear-gradient(rgb(64, 224, 208), rgb(197, 100, 192));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+.container-with-buttons {
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.button-one,
+.button-two,
+.button-three {
+  width: 200px;
+}
